@@ -1,10 +1,10 @@
 import { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import './index.css';
-import Grand5 from './Grand5.jsx';
+import Class01 from './Class01.jsx';
 
 createRoot(document.getElementById('root')).render(
     <StrictMode>
-        <Grand5 />
+        <Class01 />
     </StrictMode>,
 );
